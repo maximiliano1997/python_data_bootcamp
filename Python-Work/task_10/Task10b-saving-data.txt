@@ -1,0 +1,7 @@
+How to make my data accessible to others ?
+
+- creating a json, csv, xmlx (depending) file to save data:
+    - uploading file into Gihub repository
+    - uploading file into any cloud based storage
+    - send it via Correo
+    - make my sql database accessible via API? / Server?
